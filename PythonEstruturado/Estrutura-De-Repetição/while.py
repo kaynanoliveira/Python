@@ -9,4 +9,3 @@ print('Você digitou sair e agora está fora do laço')
 
 #No laço while, a condição é testada antes da iteração.
 #O laço while testa e executa caso a condição seja verdadeira.
-
