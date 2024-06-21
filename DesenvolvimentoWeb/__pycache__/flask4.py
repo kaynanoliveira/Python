@@ -1,8 +1,3 @@
-# Implementar uma solução em Python com Flask que faça:
-# a - Exiba a mensagem "Olá, Programadores!" no endereço raiz de uma página web e apareça a mensagem "Entre com Dois numeros"
-# b - Exiba a mensagem: '0.0' no endereço "/somar/"
-# c - Exiba a mensagem: '30.0' no endereço "/somar/10/20" de uma página web.
-
 from flask import Flask
 app = Flask(__name__)
 
