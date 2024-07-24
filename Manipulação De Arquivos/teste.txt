@@ -1,0 +1,5 @@
+Escrevendo linha de arquivo.
+Escrevendo
+um
+novo
+texto
