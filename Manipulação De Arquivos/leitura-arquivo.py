@@ -1,4 +1,4 @@
-# Existem diferentes modos para abrir um arquivo, como somente leitura ('r'), para escrever emum arquivo ('w'), para anexar conteúdo a um arquivo existente ("a").
+# Existem diferentes modos para abrir um arquivo, como somente leitura ('r'), para escrever em um arquivo ('w'), para anexar conteúdo a um arquivo existente ("a").
 
 # O método read retorna uma string inteira do arquivo.
 
